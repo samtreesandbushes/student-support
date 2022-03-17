@@ -2,7 +2,7 @@
 
 Previous tech support examples for
 
-Arduino
+Arduino &
 Processing
-Touchdesigner
-SparkAR
+& Touchdesigner
+& SparkAR
