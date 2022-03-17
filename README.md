@@ -1,6 +1,6 @@
 # student-support
 
-Previous tech support examples for
+Old tech support examples for
 
 Arduino &
 Processing
