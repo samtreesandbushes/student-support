@@ -1,8 +1,11 @@
 # student-support
 
-Old tech support examples for
+Assorted tech support examples for
 
-Arduino &
-Processing
+Arduino
+
+& Processing
+
 & Touchdesigner
+
 & SparkAR
