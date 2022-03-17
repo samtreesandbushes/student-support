@@ -1,11 +1,15 @@
 # student-support
 
-Assorted tech support examples for
+Assorted tech support examples for :
 
+=======================================
 Arduino
 
-& Processing
+=======================================
+Processing
 
-& Touchdesigner
+=======================================
+Touchdesigner
 
-& SparkAR
+=======================================
+SparkAR
