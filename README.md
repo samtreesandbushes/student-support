@@ -1,6 +1,6 @@
 # student-support
 
-Assorted tech support examples for :
+Unsorted tech support examples for :
 
 =======================================
   
